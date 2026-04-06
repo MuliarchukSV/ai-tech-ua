@@ -2,6 +2,7 @@ import type { BlogConfig } from './template/blog.config.ts';
 
 const config: BlogConfig = {
   name: "AI Техно",
+  homeTitle: "AI інструменти та автоматизація для бізнесу — огляди та гайди | AI Техно",
   description: "Штучний інтелект та технології для українського ринку",
   site: "https://ai-tech.com.ua",
   language: "uk",
