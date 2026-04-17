@@ -9,6 +9,14 @@ const config: BlogConfig = {
   niche: "AI/tech news for Ukrainian market",
   colors: { primary: "#0057b7", accent: "#ffd700" },
   analytics: { plausibleDomain: "ai-tech.com.ua" },
+  author: {
+    name: 'Sergii Muliarchuk',
+    url: 'https://flipfactory.it.com',
+    sameAs: [
+      'https://www.linkedin.com/in/sergii-muliarchuk/',
+      'https://github.com/MuliarchukSV',
+    ],
+  },
 };
 
 export default config;
