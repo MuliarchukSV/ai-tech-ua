@@ -16,7 +16,7 @@ faq:
   - q: "What should Ukrainian AI founders learn from Obriy AI's approach?"
     a: "Obriy AI's strategy highlights the importance of securing bridge capital before major fundraising events. By raising $500K ahead of their fall 2026 seed round, they've bought time to improve metrics, expand their team, and approach seed investors from a position of strength rather than urgency. This disciplined approach to fundraising timing is increasingly common among successful startups in emerging ecosystems."
   - q: "How does Ukraine's AI ecosystem compare to neighboring markets?"
-  - a: "Ukraine's AI ecosystem has grown significantly despite challenges, with over 200 active AI startups as of 2026. According to Dealroom data, Ukrainian AI companies raised $120M+ in 2025, competing favorably with Poland ($180M) and Romania ($45M). The talent density remains Ukraine's key advantage, with engineering costs 40-60% lower than Western Europe while maintaining comparable quality, making it attractive for both local and international AI ventures."
+    a: "Ukraine's AI ecosystem has grown significantly despite challenges, with over 200 active AI startups as of 2026. According to Dealroom data, Ukrainian AI companies raised $120M+ in 2025, competing favorably with Poland ($180M) and Romania ($45M). The talent density remains Ukraine's key advantage, with engineering costs 40-60% lower than Western Europe while maintaining comparable quality, making it attractive for both local and international AI ventures."
 ---
 
 ## TLDR: A Strategic Pre-Seed in Ukraine's Maturing AI Landscape
