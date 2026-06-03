@@ -10,8 +10,10 @@ const config: BlogConfig = {
   colors: { primary: "#0057b7", accent: "#ffd700" },
   analytics: { plausibleDomain: "ai-tech.com.ua" },
   author: {
+    type: 'Person',
     name: 'Sergii Muliarchuk',
-    url: 'https://flipfactory.it.com',
+    url: '/author',
+    bio: 'Сергій Мулярчук — засновник FlipFactory, агенції AI-автоматизації, що будує продакшн AI-системи (MCP-сервери, n8n-воркфлоу, голосові агенти) для fintech, e-commerce та SaaS клієнтів.',
     sameAs: [
       'https://www.linkedin.com/in/sergii-muliarchuk/',
       'https://github.com/MuliarchukSV',
